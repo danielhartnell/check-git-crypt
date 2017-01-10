@@ -1,0 +1,2 @@
+secretfile filter=git-crypt diff=git-crypt
+encrypted_files/* filter=git-crypt diff=git-crypt
